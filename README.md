@@ -9,7 +9,9 @@
 
 [<img align="left" alt="christhompson.online/v3.0" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ChrisThompsonTX | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ChrisThompsonTX | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][angellist]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
 <br />
 
@@ -46,3 +48,5 @@
 [website]: http://http://christhompson.online/v3.0/
 [instagram]: https://www.instagram.com/christx86/
 [linkedin]: https://www.linkedin.com/in/chris-online/
+[angellist]: https://angel.co/u/christopher-thio-thompson
+[leetcode]: https://leetcode.com/christx86/

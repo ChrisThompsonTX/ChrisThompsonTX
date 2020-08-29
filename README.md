@@ -1,6 +1,6 @@
 ### Hi there, I'm Chris Thompson - check out my [personal site][website] 👋
 
-[![Website](https://img.shields.io/website?label=ChrisThompson.online.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://christhompson.online/v3.0)
+[![Website](https://img.shields.io/website?label=ChrisThompson.online.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://christhompson.online/v3.0)
 
 
 ## I'm a Father, Beer Brewer, Sailor, and Developer!
